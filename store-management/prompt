@@ -1,13 +1,6 @@
 Please implement for this Event Storming Model:
-{
-  "_type": "BoundedContext",
-  "aggregates": [
-    {}
-  ],
-  "name": "store-management",
-  "displayName": "가게 관리",
-  "policies": []
-}
+
+{"_type":"BoundedContext","aggregates":[{}],"name":"store-management","displayName":"가게 관리","policies":[]}
 
 
 I want to utilize following techniques:
